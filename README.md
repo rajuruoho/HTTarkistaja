@@ -1,2 +1,2 @@
-# HTTarkistustyökalu
-Tarkoitettu harjoitustyön tarkistamisen nopeuttamiseen
+# Harjoitustyön Tarkistamiseen aputyökalu
+- Tarkoitettu harjoitustyön tarkistamisen nopeuttamiseen
